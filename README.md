@@ -37,6 +37,8 @@ Clique no botão **Use this template** para criar um novo repositório com base 
 │   └── imagens        <- Gráficos e figuras gerados para serem usados em relatórios
 ```
 
+
+
 ## Configuração do ambiente
 
 1. Faça o clone do repositório que será criado a partir deste modelo.
